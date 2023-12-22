@@ -1,0 +1,13 @@
+disp1color.c:32:6:disp1color_FillScreenbuff	1
+disp1color.c:42:6:disp1color_UpdateFromBuff	1
+disp1color.c:55:6:disp1color_printf	1
+disp1color.c:73:6:disp1color_DrawPixel	6
+disp1color.c:107:6:disp1color_DrawLine	7
+disp1color.c:141:6:disp1color_DrawRectangle	1
+disp1color.c:154:6:disp1color_DrawCircle	6
+disp1color.c:203:6:print_buf	2
+disp1color.c:215:6:DMD_1COLOR_DisplayFullUpdate	1
+disp1color.c:228:6:DMD_1COLOR_UpdateRow4	4
+disp1color.c:265:6:DMD_1COLOR_SendFromMatrixBuff	3
+disp1color.c:291:9:DMD_1COLOR_GetFrom8ScreenBytes	3
+disp1color.c:317:6:prepare_data	7

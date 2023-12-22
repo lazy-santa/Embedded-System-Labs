@@ -1,0 +1,12 @@
+Accelerometer.c:33:6:I2CStartRestart	1
+Accelerometer.c:40:6:I2CStop	1
+Accelerometer.c:48:6:I2CEnableAcknowledge	1
+Accelerometer.c:56:6:I2CDisableAcknowledge	1
+Accelerometer.c:62:6:I2CSendSlaveAddress	3
+Accelerometer.c:79:6:I2CSendRegister	3
+Accelerometer.c:91:6:I2CWaitIfBusy	2
+Accelerometer.c:97:6:I2CWriteByte	2
+Accelerometer.c:106:15:I2CGetData	2
+Accelerometer.c:116:15:ReadFromAccelerometer	1
+Accelerometer.c:142:6:WriteToAccelerometer	1
+Accelerometer.c:164:6:AccelerometerInit	1

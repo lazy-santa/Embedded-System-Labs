@@ -1,0 +1,6 @@
+../Core/Src/Gyro.c:5:6:WaitForSPI1RXReady	4	static
+../Core/Src/Gyro.c:13:6:WaitForSPI1TXReady	4	static
+../Core/Src/Gyro.c:37:15:ReadFromGyro	24	static
+../Core/Src/Gyro.c:53:6:WriteToGyro	16	static
+../Core/Src/Gyro.c:67:6:GyroInit	8	static
+../Core/Src/Gyro.c:129:7:GetAxisValue	32	static

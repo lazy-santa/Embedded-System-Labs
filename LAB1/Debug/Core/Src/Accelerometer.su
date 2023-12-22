@@ -1,0 +1,12 @@
+../Core/Src/Accelerometer.c:33:6:I2CStartRestart	4	static
+../Core/Src/Accelerometer.c:40:6:I2CStop	4	static
+../Core/Src/Accelerometer.c:48:6:I2CEnableAcknowledge	4	static
+../Core/Src/Accelerometer.c:56:6:I2CDisableAcknowledge	4	static
+../Core/Src/Accelerometer.c:62:6:I2CSendSlaveAddress	16	static
+../Core/Src/Accelerometer.c:79:6:I2CSendRegister	16	static
+../Core/Src/Accelerometer.c:91:6:I2CWaitIfBusy	4	static
+../Core/Src/Accelerometer.c:97:6:I2CWriteByte	16	static
+../Core/Src/Accelerometer.c:106:15:I2CGetData	4	static
+../Core/Src/Accelerometer.c:116:15:ReadFromAccelerometer	16	static
+../Core/Src/Accelerometer.c:142:6:WriteToAccelerometer	16	static
+../Core/Src/Accelerometer.c:164:6:AccelerometerInit	16	static

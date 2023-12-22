@@ -1,0 +1,6 @@
+Gyro.c:5:6:WaitForSPI1RXReady	3
+Gyro.c:13:6:WaitForSPI1TXReady	3
+Gyro.c:37:15:ReadFromGyro	1
+Gyro.c:53:6:WriteToGyro	1
+Gyro.c:67:6:GyroInit	1
+Gyro.c:129:7:GetAxisValue	1
